@@ -1,6 +1,8 @@
 Hi, I'm Sid 👋
 
-I work on tools and services for developers. Working on component libraries and tooling.
+I work on tools and services for developers. 
+
+now: Working on component libraries and tooling.
 
 <ul>
 <li>
