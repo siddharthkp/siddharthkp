@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi, I'm Sid 👋
 
-<!--
-**siddharthkp/siddharthkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on tools and services for developers. Working on component libraries and tooling.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+<li>
+  <div>Developer at <a href="https://codesandbox.io">CodeSandbox</a></div>
+  <small>past: design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
+</li>
+<br/>
+<li>
+  <div>Building <a href="https://github.com/siddharthkp/react-ui">React UI</a></div>
+  <div><small>built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small></div>
+  <div><small>20M downloads on npm · 10.3K stars on GitHub</small></div>
+</li>
+<br/>
+<li>
+  <div>I give talks about React and Design Systems</div>
+  <small><a href="https://sid.st/talks/">watch past talks<a/></small>
+</li>
+<br/>
+<li>
+  <div>Writing a seasonal newsletter to share what I learn</div>
+  <small><a href="https://sid.st/blog/">read posts about javascript, design systems and personal growth<a/></small>
+</li>
+</ul>
