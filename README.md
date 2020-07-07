@@ -12,7 +12,7 @@ now: Working on component libraries and tooling.
 <br/>
 <li>
   <div>Building <a href="https://github.com/siddharthkp/react-ui">React UI</a>, sending <a href="https://tinyreact.email">tinyreact.email</a></div>
-  <div><small>built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a></small></div>
+  <div><small>built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://github.com/siddharthkp/cost-of-modules">cost-of-modules</a></small></div>
   <div><small>20M downloads on npm · 10.3K stars on GitHub</small></div>
 </li>
 <br/>
