@@ -3,7 +3,7 @@
 
 Hi, I'm Sid 👋
 
-now: Working on component libraries and tooling.
+Thinking about components and ways of making them
 
 <ul>
 <li>
