@@ -1,4 +1,4 @@
-![patrick.jpg](patrick-big.jpg)
+![patrick.jpg](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/patrick-big.jpg)
 
 
 Hi, I'm Sid 👋
