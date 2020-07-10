@@ -1,4 +1,4 @@
-![patrick.jpg](patrick.jpg)
+![patrick.jpg](patrick-big.jpg)
 
 
 Hi, I'm Sid 👋
