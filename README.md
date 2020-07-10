@@ -1,6 +1,7 @@
-Hi, I'm Sid 👋
+![patrick.jpg](patrick.jpg)
 
-I work on tools and services for developers. 
+
+Hi, I'm Sid 👋
 
 now: Working on component libraries and tooling.
 
