@@ -1,4 +1,4 @@
-![patrick.jpg](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/patrick-big.jpg)
+![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/britney.gif)
 
 
 Hi, I'm Sid 👋
