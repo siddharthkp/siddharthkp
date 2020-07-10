@@ -1,9 +1,12 @@
 ![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/britney.gif)
 
+&nbsp;
 
 Hi, I'm Sid 👋
 
 Thinking about components and ways of making them
+
+&nbsp;
 
 <ul>
 <li>
