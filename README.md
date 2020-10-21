@@ -15,7 +15,7 @@ Thinking about components and ways of making them
 </li>
 <br/>
 <li>
-  <div>Building <a href="https://github.com/ui-devtools">UI Devtools</a>, <a href="https://github.com/siddharthkp/react-ui">React UI</a>, sending <a href="https://tinyreact.email">tinyreact.email</a></div>
+  <div>Building <a href="https://ui-devtools.com">UI Devtools</a>, <a href="https://github.com/siddharthkp/react-ui">React UI</a>, sending <a href="https://tinyreact.email">tinyreact.email</a></div>
   <div><small>built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://github.com/siddharthkp/cost-of-modules">cost-of-modules</a></small></div>
   <div><small>22M downloads on npm · 10.5K stars on GitHub</small></div>
 </li>
