@@ -1,4 +1,4 @@
-![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/master/britney.gif)
+![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/main/britney.gif)
 
 &nbsp;
 
