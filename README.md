@@ -8,6 +8,20 @@ Thinking about components and ways of making them
 
 &nbsp;
 
+**Open source projects:**
+
+[UI Devtools for Tailwind CSS](https://ui-devtools.com) - The missing browser devtools for Tailwind CSS
+
+[React UI](https://react-ui.dev) - Customisable components and primitives based on design tokens
+
+[Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
+
+Curating [tinyreact.email](https:///tinyreact.email)
+
+&nbsp;
+
+**About Me:**
+
 <ul>
 <li>
   <div>Developer at <a href="https://codesandbox.io">CodeSandbox</a></div>
@@ -15,9 +29,8 @@ Thinking about components and ways of making them
 </li>
 <br/>
 <li>
-  <div>Building <a href="https://ui-devtools.com">UI Devtools</a>, <a href="https://github.com/siddharthkp/react-ui">React UI</a>, sending <a href="https://tinyreact.email">tinyreact.email</a></div>
-  <div><small>built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://github.com/siddharthkp/cost-of-modules">cost-of-modules</a></small></div>
-  <div><small>24M downloads on npm · 10.5K stars on GitHub</small></div>
+  <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp">more</a></div>
+  <div><small>24M downloads on npm · 10.5K stars on GitHub</div>
 </li>
 <br/>
 <li>
@@ -25,8 +38,4 @@ Thinking about components and ways of making them
   <small><a href="https://sid.st/talks/">watch past talks<a/></small>
 </li>
 <br/>
-<li>
-  <div>Writing a seasonal newsletter to share what I learn</div>
-  <small><a href="https://sid.st/blog/">read posts about javascript, design systems and personal growth<a/></small>
-</li>
 </ul>
