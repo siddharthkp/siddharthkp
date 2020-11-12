@@ -42,7 +42,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 
 <br/>
 
-<p>And thank you to the folks who <a href="https://github.com/sponsors/siddharthkp">sponsor</a> my work:</p>
+<p>Thank you to the folks who <a href="https://github.com/sponsors/siddharthkp">sponsor</a> my work:</p>
 
 
 <a href="https://github.com/shrutikapoor08"><img title="shrutikapoor08" src="https://github.com/shrutikapoor08.png" width="32"></a>
