@@ -45,12 +45,14 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <p>Thank you to the folks who <a href="https://github.com/sponsors/siddharthkp">sponsor</a> my work:</p>
 
 
+
 <a href="https://github.com/shrutikapoor08"><img title="shrutikapoor08" src="https://github.com/shrutikapoor08.png" width="32"></a>
 <a href="https://github.com/joelhooks"><img title="joelhooks" src="https://github.com/joelhooks.png" width="32"></a>
 <a href="https://github.com/rdworth"><img title="rdworth" src="https://github.com/rdworth.png" width="32"></a>
 <a href="https://github.com/darrenbutcher"><img title="darrenbutcher" src="https://github.com/darrenbutcher.png" width="32"></a>
 <a href="https://github.com/danielsdesk"><img title="danielsdesk" src="https://github.com/danielsdesk.png" width="32"></a>
 <a href="https://github.com/stevecastaneda"><img title="stevecastaneda" src="https://github.com/stevecastaneda.png" width="32"></a>
+<a href="https://github.com/kieranklaassen"><img title="kieranklaassen" src="https://github.com/kieranklaassen.png" width="32"></a>
 <a href="https://github.com/mauricecalhoun"><img title="mauricecalhoun" src="https://github.com/mauricecalhoun.png" width="32"></a>
 <a href="https://github.com/lxcid"><img title="lxcid" src="https://github.com/lxcid.png" width="32"></a>
 <a href="https://github.com/klickreflex"><img title="klickreflex" src="https://github.com/klickreflex.png" width="32"></a>
@@ -59,6 +61,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/a-sane"><img title="a-sane" src="https://github.com/a-sane.png" width="32"></a>
 <a href="https://github.com/robert-claypool"><img title="robert-claypool" src="https://github.com/robert-claypool.png" width="32"></a>
 <a href="https://github.com/korygorsky"><img title="korygorsky" src="https://github.com/korygorsky.png" width="32"></a>
+<a href="https://github.com/hoodwink73"><img title="hoodwink73" src="https://github.com/hoodwink73.png" width="32"></a>
 <a href="https://github.com/danscan"><img title="danscan" src="https://github.com/danscan.png" width="32"></a>
 <a href="https://github.com/sanketsahu"><img title="sanketsahu" src="https://github.com/sanketsahu.png" width="32"></a>
 <a href="https://github.com/jeffrwells"><img title="jeffrwells" src="https://github.com/jeffrwells.png" width="32"></a>
@@ -81,5 +84,4 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <img title="private sponsor" src="https://user-images.githubusercontent.com/1863771/99001149-a74b6880-253a-11eb-8de3-d61e693ff663.png" width="32">
 <img title="private sponsor" src="https://user-images.githubusercontent.com/1863771/99001149-a74b6880-253a-11eb-8de3-d61e693ff663.png" width="32">
 <img title="private sponsor" src="https://user-images.githubusercontent.com/1863771/99001149-a74b6880-253a-11eb-8de3-d61e693ff663.png" width="32">
-
 
