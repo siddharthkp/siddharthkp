@@ -49,7 +49,9 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <p>Thank you to the folks who <a href="https://github.com/sponsors/siddharthkp">sponsor</a> my work:</p>
 
 
+
 <a href="https://github.com/shrutikapoor08"><img title="shrutikapoor08" src="https://github.com/shrutikapoor08.png" width="32"></a>
+<a href="https://github.com/intabulas"><img title="intabulas" src="https://github.com/intabulas.png" width="32"></a>
 <a href="https://github.com/joelhooks"><img title="joelhooks" src="https://github.com/joelhooks.png" width="32"></a>
 <a href="https://github.com/rdworth"><img title="rdworth" src="https://github.com/rdworth.png" width="32"></a>
 <a href="https://github.com/darrenbutcher"><img title="darrenbutcher" src="https://github.com/darrenbutcher.png" width="32"></a>
@@ -65,6 +67,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/MonteKrysto"><img title="MonteKrysto" src="https://github.com/MonteKrysto.png" width="32"></a>
 <a href="https://github.com/robert-claypool"><img title="robert-claypool" src="https://github.com/robert-claypool.png" width="32"></a>
 <a href="https://github.com/korygorsky"><img title="korygorsky" src="https://github.com/korygorsky.png" width="32"></a>
+<a href="https://github.com/tylerforesthauser"><img title="tylerforesthauser" src="https://github.com/tylerforesthauser.png" width="32"></a>
 <a href="https://github.com/hoodwink73"><img title="hoodwink73" src="https://github.com/hoodwink73.png" width="32"></a>
 <a href="https://github.com/danscan"><img title="danscan" src="https://github.com/danscan.png" width="32"></a>
 <a href="https://github.com/sanketsahu"><img title="sanketsahu" src="https://github.com/sanketsahu.png" width="32"></a>
