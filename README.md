@@ -8,9 +8,13 @@ Thinking about components and ways of making them
 
 &nbsp;
 
-**Open source projects:**
+**Sponsors only projects:**
 
 [UI Devtools for Tailwind CSS](https://ui-devtools.com) - The missing browser devtools for Tailwind CSS
+
+&nbsp;
+
+**Open source projects:**
 
 [React UI](https://react-ui.dev) - Customisable components and primitives based on design tokens
 
