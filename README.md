@@ -80,6 +80,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/znck"><img title="znck" src="https://github.com/znck.png" width="32"></a>
 <a href="https://github.com/charifmews"><img title="charifmews" src="https://github.com/charifmews.png" width="32"></a>
 <a href="https://github.com/subodh-malgonde"><img title="subodh-malgonde" src="https://github.com/subodh-malgonde.png" width="32"></a>
+<a href="https://github.com/bdougie"><img title="bdougie" src="https://github.com/bdougie.png" width="32"></a>
 <a href="https://github.com/lredoban"><img title="lredoban" src="https://github.com/lredoban.png" width="32"></a>
 <a href="https://github.com/domitriusclark"><img title="domitriusclark" src="https://github.com/domitriusclark.png" width="32"></a>
 <a href="https://github.com/kamleshchandnani"><img title="kamleshchandnani" src="https://github.com/kamleshchandnani.png" width="32"></a>
@@ -91,6 +92,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/vojtaholik"><img title="vojtaholik" src="https://github.com/vojtaholik.png" width="32"></a>
 <a href="https://github.com/m-abdelwahab"><img title="m-abdelwahab" src="https://github.com/m-abdelwahab.png" width="32"></a>
 <a href="https://github.com/Enzaik"><img title="Enzaik" src="https://github.com/Enzaik.png" width="32"></a>
+<a href="https://github.com/demandwork"><img title="demandwork" src="https://github.com/demandwork.png" width="32"></a>
 <a href="https://github.com/kev-supapass"><img title="kev-supapass" src="https://github.com/kev-supapass.png" width="32"></a>
 <a href="https://github.com/awey95"><img title="awey95" src="https://github.com/awey95.png" width="32"></a>
 <img title="private sponsor" src="https://user-images.githubusercontent.com/1863771/99001149-a74b6880-253a-11eb-8de3-d61e693ff663.png" width="32">
