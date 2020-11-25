@@ -52,6 +52,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 
 <a href="https://github.com/shrutikapoor08"><img title="shrutikapoor08" src="https://github.com/shrutikapoor08.png" width="32"></a>
 <a href="https://github.com/intabulas"><img title="intabulas" src="https://github.com/intabulas.png" width="32"></a>
+<a href="https://github.com/threepointone"><img title="threepointone" src="https://github.com/threepointone.png" width="32"></a>
 <a href="https://github.com/krisrang"><img title="krisrang" src="https://github.com/krisrang.png" width="32"></a>
 <a href="https://github.com/joelhooks"><img title="joelhooks" src="https://github.com/joelhooks.png" width="32"></a>
 <a href="https://github.com/rdworth"><img title="rdworth" src="https://github.com/rdworth.png" width="32"></a>
@@ -60,6 +61,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/stevecastaneda"><img title="stevecastaneda" src="https://github.com/stevecastaneda.png" width="32"></a>
 <a href="https://github.com/kieranklaassen"><img title="kieranklaassen" src="https://github.com/kieranklaassen.png" width="32"></a>
 <a href="https://github.com/mauricecalhoun"><img title="mauricecalhoun" src="https://github.com/mauricecalhoun.png" width="32"></a>
+<a href="https://github.com/ipalaus"><img title="ipalaus" src="https://github.com/ipalaus.png" width="32"></a>
 <a href="https://github.com/lxcid"><img title="lxcid" src="https://github.com/lxcid.png" width="32"></a>
 <a href="https://github.com/klickreflex"><img title="klickreflex" src="https://github.com/klickreflex.png" width="32"></a>
 <a href="https://github.com/silvenon"><img title="silvenon" src="https://github.com/silvenon.png" width="32"></a>
@@ -78,10 +80,11 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <a href="https://github.com/CarlRosell"><img title="CarlRosell" src="https://github.com/CarlRosell.png" width="32"></a>
 <a href="https://github.com/mohammedzamakhan"><img title="mohammedzamakhan" src="https://github.com/mohammedzamakhan.png" width="32"></a>
 <a href="https://github.com/znck"><img title="znck" src="https://github.com/znck.png" width="32"></a>
+<a href="https://github.com/karimsa"><img title="karimsa" src="https://github.com/karimsa.png" width="32"></a>
 <a href="https://github.com/charifmews"><img title="charifmews" src="https://github.com/charifmews.png" width="32"></a>
 <a href="https://github.com/subodh-malgonde"><img title="subodh-malgonde" src="https://github.com/subodh-malgonde.png" width="32"></a>
 <a href="https://github.com/bdougie"><img title="bdougie" src="https://github.com/bdougie.png" width="32"></a>
-<a href="https://github.com/lredoban"><img title="lredoban" src="https://github.com/lredoban.png" width="32"></a>
+<a href="https://github.com/rkrueger11"><img title="rkrueger11" src="https://github.com/rkrueger11.png" width="32"></a>
 <a href="https://github.com/domitriusclark"><img title="domitriusclark" src="https://github.com/domitriusclark.png" width="32"></a>
 <a href="https://github.com/kamleshchandnani"><img title="kamleshchandnani" src="https://github.com/kamleshchandnani.png" width="32"></a>
 <a href="https://github.com/nitish24p"><img title="nitish24p" src="https://github.com/nitish24p.png" width="32"></a>
