@@ -32,7 +32,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 <br/>
 <li>
   <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp">more</a></div>
-  <div><small>24M downloads on npm · 10.5K stars on GitHub</div>
+  <div><small>45M downloads on npm · 10.9K stars on GitHub</div>
 </li>
 <br/>
 <li>
