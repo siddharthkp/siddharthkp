@@ -1,5 +1,3 @@
-![britney.gif](https://raw.githubusercontent.com/siddharthkp/siddharthkp/main/britney.gif)
-
 &nbsp;
 
 Hi, I'm Sid 👋
