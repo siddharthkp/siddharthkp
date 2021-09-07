@@ -26,8 +26,7 @@ Curating [tinyreact.email](https:///tinyreact.email)
 
 <ul>
 <li>
-  <div>Developer at <a href="https://codesandbox.io">CodeSandbox</a></div>
-  <small>past: design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
+  <small>past: developer at <a href="https://codesandbox.io">CodeSandbox</a>, design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
 </li>
 <br/>
 <li>
