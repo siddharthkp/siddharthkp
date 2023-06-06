@@ -22,8 +22,6 @@ Thinking about components and ways of making them
 
 [Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
 
-Curating [tinyreact.email](https:///tinyreact.email)
-
 &nbsp;
 
 **About Me:**
