@@ -16,14 +16,6 @@ Thinking about components and ways of making them
 
 &nbsp;
 
-**Open source projects:**
-
-[React UI](https://react-ui.dev) - Customisable components and primitives based on design tokens
-
-[Bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
-
-&nbsp;
-
 **About Me:**
 
 <ul>
@@ -32,7 +24,7 @@ Thinking about components and ways of making them
 </li>
 <br/>
 <li>
-  <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp?tab=repositories&q=&type=&language=&sort=stargazers">more</a></div>
+  <div>Built <a href="https://github.com/siddharthkp/bundlesize">bundlesize</a>, <a href="https://react-ui.dev">React UI</a>, <a href="https://tinyreact.email">tinyreact.email</a></small> and <a href="https://github.com/siddharthkp?tab=repositories&q=&type=&language=&sort=stargazers">more</a></div>
   <div><small>45M downloads on npm · 10.9K stars on GitHub</div>
 </li>
 <br/>
