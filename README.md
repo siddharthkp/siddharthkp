@@ -10,7 +10,7 @@ Thinking about components and ways of making them
 
 &nbsp;
 
-**Sponsors only projects:**
+**Projects available only to sponsors:**
 
 [UI Devtools for Tailwind CSS](https://ui-devtools.com) - The missing browser devtools for Tailwind CSS
 
