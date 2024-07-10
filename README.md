@@ -20,6 +20,10 @@ Thinking about components and ways of making them
 
 <ul>
 <li>
+  <small>now: staff <a href="https://primer.style">design systems<a/> engineer at GitHub</small>
+</li>
+<br/>
+<li>
   <small>past: developer at <a href="https://codesandbox.io">CodeSandbox</a>, design systems at <a href="https://auth0.com">Auth0</a>, frontend architect at <a href="https://practo.com">Practo</a></small>
 </li>
 <br/>
